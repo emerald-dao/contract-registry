@@ -86,26 +86,22 @@
 			"key": "187d4ffcb1f77434e0bc73da50abb61520ee1352d81837d58763c114069dcadc"
 		},
 		"testnet-account": {
-      "address": "0x0",
-      "key": {
-        "type": "hex",
-        "index": 0,
-        "signatureAlgorithm": "ECDSA_P256",
-        "hashAlgorithm": "SHA3_256",
-        "privateKey": "xyz"
-      }
-    }
+			"address": "0x0",
+			"key": {
+				"type": "hex",
+				"index": 0,
+				"signatureAlgorithm": "ECDSA_P256",
+				"hashAlgorithm": "SHA3_256",
+				"privateKey": "xyz"
+			}
+		}
 	},
 	"deployments": {
 		"emulator": {
-			"emulator-account": [
-
-			]
+			"emulator-account": []
 		},
 		"testnet": {
-			"testnet-account": [
-
-			]
+			"testnet-account": []
 		}
 	}
 }
