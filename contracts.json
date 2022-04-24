@@ -22,7 +22,7 @@
     "testnet": "0xa16ab1d0abde3625",
     "mainnet": "0x097bafa4e0b48eef"
   },
-  "Flowns": {
+  "Domains": {
     "testnet": "",
     "mainnet": "0x233eb012d34b0070"
   }
