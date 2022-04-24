@@ -31,7 +31,7 @@
 			"source": "",
 			"aliases": {
 				"testnet": "0x9a0766d93b6608b7",
-    		"mainnet": "0xf233dcee88fe0abe"
+				"mainnet": "0xf233dcee88fe0abe"
 			}
 		},
 		"FLOAT": {
@@ -44,35 +44,35 @@
 			"source": "",
 			"aliases": {
 				"testnet": "0xa16ab1d0abde3625",
-   		 	"mainnet": "0x097bafa4e0b48eef"
+				"mainnet": "0x097bafa4e0b48eef"
 			}
 		},
 		"Domains": {
 			"source": "",
 			"aliases": {
 				"testnet": "",
-   			"mainnet": "0x233eb012d34b0070"
+				"mainnet": "0x233eb012d34b0070"
 			}
 		},
-		"GENIACE": {
+		"GeniaceNFT": {
 			"source": "",
 			"aliases": {
 				"testnet": "0x99eb28310626e56a",
-    		"mainnet": "0xabda6627c70c7f52"
+				"mainnet": "0xabda6627c70c7f52"
 			}
 		},
 		"Flovatar": {
 			"source": "",
 			"aliases": {
 				"testnet": "0x0cf264811b95d465",
-    		"mainnet": "0x921ea449dffec68a"
+				"mainnet": "0x921ea449dffec68a"
 			}
 		},
 		"Versus": {
 			"source": "",
 			"aliases": {
 				"testnet": "0x99ca04281098b33d",
-    		"mainnet": "0xd796ff17107bbff6"
+				"mainnet": "0xd796ff17107bbff6"
 			}
 		}
 	},
