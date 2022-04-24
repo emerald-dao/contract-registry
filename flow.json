@@ -1,0 +1,91 @@
+{
+	"emulators": {
+		"default": {
+			"port": 3569,
+			"serviceAccount": "emulator-account"
+		}
+	},
+	"contracts": {
+		"FlowToken": {
+			"source": "",
+			"aliases": {
+				"testnet": "0x7e60df042a9c0868",
+				"mainnet": "0x1654653399040a61"
+			}
+		},
+		"NonFungibleToken": {
+			"source": "",
+			"aliases": {
+				"testnet": "0x631e88ae7f1d7c20",
+				"mainnet": "0x1d7e57aa55817448"
+			}
+		},
+		"MetadataViews": {
+			"source": "",
+			"aliases": {
+				"testnet": "0x631e88ae7f1d7c20",
+				"mainnet": "0x1d7e57aa55817448"
+			}
+		},
+		"FungibleToken": {
+			"source": "",
+			"aliases": {
+				"testnet": "0x9a0766d93b6608b7",
+    		"mainnet": "0xf233dcee88fe0abe"
+			}
+		},
+		"FLOAT": {
+			"source": "",
+			"aliases": {
+				"mainnet": "0x2d4c3caffbeab845"
+			}
+		},
+		"FIND": {
+			"source": "",
+			"aliases": {
+				"testnet": "0xa16ab1d0abde3625",
+   		 	"mainnet": "0x097bafa4e0b48eef"
+			}
+		},
+		"Domains": {
+			"source": "",
+			"aliases": {
+				"testnet": "",
+   			"mainnet": "0x233eb012d34b0070"
+			}
+		},
+		"GENIACE": {
+			"source": "",
+			"aliases": {
+				"testnet": "0x99eb28310626e56a",
+    		"mainnet": "0xabda6627c70c7f52"
+			}
+		},
+		"Flovatar": {
+			"source": "",
+			"aliases": {
+				"testnet": "0x0cf264811b95d465",
+    		"mainnet": "0x921ea449dffec68a"
+			}
+		},
+		"Versus": {
+			"source": "",
+			"aliases": {
+				"testnet": "0x99ca04281098b33d",
+    		"mainnet": "0xd796ff17107bbff6"
+			}
+		}
+	},
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"emulator-account": {
+			"address": "f8d6e0586b0a20c7",
+			"key": "187d4ffcb1f77434e0bc73da50abb61520ee1352d81837d58763c114069dcadc"
+		}
+	},
+	"deployments": {}
+}
