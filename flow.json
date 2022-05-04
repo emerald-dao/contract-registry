@@ -37,6 +37,7 @@
 		"FLOAT": {
 			"source": "",
 			"aliases": {
+				"testnet": "0x0afe396ebc8eee65",
 				"mainnet": "0x2d4c3caffbeab845"
 			}
 		},
